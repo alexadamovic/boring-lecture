@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(116, 116, 80);
+}
+
+h2.intro {
+  color: rgb(58, 104, 88);
+}
+p.intro {
+  color:rgb(255, 255, 167)
+}
+img.intro {
+  width: 20em;
+}
+
+.intro {
+  font-style: italic;
+  color: blue;
+}
